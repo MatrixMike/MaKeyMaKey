@@ -22,7 +22,7 @@
 /////////////////////////
 // DEBUG DEFINITIONS ////               
 /////////////////////////
-//#define DEBUG
+#define DEBUG
 //#define DEBUG2 
 //#define DEBUG3 
 //#define DEBUG_TIMING
@@ -704,9 +704,3 @@ void updateOutLEDs()
     RXLED0;
   }
 }
-
-
-
-
-
-
